@@ -1,6 +1,6 @@
 # Elegance Salon Management System
 
-A comprehensive salon management system to streamline appointments, client management, staff scheduling, and inventory tracking.
+A comprehensive salon management system using php and mysql to streamline appointments, client management, staff scheduling, and inventory tracking.
 
 ## Key Features
 - User Authentication and Role-based Access Control
